@@ -1,3 +1,7 @@
-This simple skyblock mod allows you to view the NBT tag of an item. 
-This allows you to verify whether or not the item has been duped.
-To use this mod, download it and move it to your mods folder inside of your .minecraft folder. Then, launch the game.
+This QOL Skyblock mod allows you to:
+/n > Have Event Notifications sent directly to you!
+/n > View NBT Tags. This allows you to avoid buying duped items.
+/n Instructions on how to use:
+/n Download the SkyMods.jar file 
+/n Move the .jar file into your mods folder in your .minecraft folder
+/n Launch!
