@@ -17,5 +17,7 @@ Download the BudgetSBE.jar file
 
 Move the .jar file into your mods folder in your .minecraft folder
 
+(Note: SkyMods is an outdated version)
+
 
 Launch!
