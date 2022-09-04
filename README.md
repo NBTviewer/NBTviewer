@@ -6,11 +6,13 @@ This QOL Skyblock mod allows you to:
 
 > View NBT Tags. This allows you to avoid buying duped items.
 
+> Includes all the mods that SBE has
+
 
 Instructions on how to use:
 
 
-Download the SkyMods.jar file 
+Download the BudgetSBE.jar file
 
 
 Move the .jar file into your mods folder in your .minecraft folder
